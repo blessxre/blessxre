@@ -5,4 +5,4 @@
 ## 🔰 - Hey!
 `🔸` I'm Shini an German discord.js Bot-Developer!
 
-`🔸` Contact @ abstrakt#0001
+`🔸` Contact @ scintillate#9798
