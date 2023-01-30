@@ -1,6 +1,4 @@
-<a href="https://discord.com/users/341160761470615563" target="_blank">
-    <img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/341160761470615563?bg=1f1f1f&borderRadius=10px">
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 
 ## 🔰 - Hey!
 `🔸` I'm Shini an German discord.js Bot-Developer!
