@@ -13,3 +13,7 @@
 `🔸` I'm Shini an German discord.js Bot-Developer!
 
 `🔸` Contact @ .shini#0001
+
+`🚀` Active at...
+`➡️` (German Discord Partner - Nova Empire)[https://discord.gg/novaempire]
+ 
