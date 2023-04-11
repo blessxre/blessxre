@@ -15,5 +15,6 @@
 `🔸` Contact @ .shini#0001
 
 `🚀` Active at...
-`➡️` (German Discord Partner - Nova Empire)[https://discord.gg/novaempire]
+`➡️` Discord @ [Nova Empire](https://discord.gg/novaempire)
+`➡️` Discord @ [Shini's Fantasiewelt](https://discord.gg/fantasie)
  
