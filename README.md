@@ -9,12 +9,14 @@
 </a>
 
 
-## 🔰 - Hey!
-`🔸` I'm Shini an German discord.js Bot-Developer!
+## 🔰 - Welcome on my Profile! 👋
+`🌍` I'm Shini an German [discord.js](https://discord.js.org) Bot-Developer!
 
-`🔸` Contact @ .shini#0001
+> `➡️` Developer @ https://discord.gg/novaempire
+> - Developer of Leveling & Temp-Voice
 
-`🚀` Active at...
-`➡️` Discord @ [Nova Empire](https://discord.gg/novaempire)
-`➡️` Discord @ [Shini's Fantasiewelt](https://discord.gg/fantasie)
+> `➡️` Owner @ https://discord.gg/fantasie
+> - Developer of every Bot on the Server
+
+- `📨` Contact @ [.shini#0001](https://discord.com/users/341160761470615563)
  
