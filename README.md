@@ -15,8 +15,8 @@
 > `➡️` Developer @ https://discord.gg/novaempire
 > - Developer of Leveling & Temp-Voice
 
-> `➡️` Owner @ https://discord.gg/fantasie
+> `➡️` Owner @ https://discord.gg/fantazia
 > - Developer of every Bot on the Server
 
-- `📨` Contact @ [.shini#0001](https://discord.com/users/341160761470615563)
+- `📨` Contact @ [blessxre](https://discord.com/users/341160761470615563)
  
