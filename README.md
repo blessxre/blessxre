@@ -10,10 +10,10 @@
 
 
 ## 🔰 - Welcome on my Profile! 👋
-`🌍` I'm Shini an German [discord.js](https://discord.js.org) Bot-Developer!
+`🌍` I am Shini and i am from Germany and an [discord.js](https://discord.js.org) Bot-Developer!
 
-> `➡️` Developer @ https://discord.gg/novaempire
-> - Developer of Leveling & Temp-Voice
+> `➡️` Developer @ https://discord.gg/novaempire — This Server is [partnered with Discord](https://discord.com/partners)!
+> - Developer of Leveling & Temp-Voice-System <3
 
-- `📨` Contact @ [shini.js](https://discord.com/users/341160761470615563)
+- `📨` Contact @ [shini.js on Discord](https://discord.com/users/341160761470615563)
  
