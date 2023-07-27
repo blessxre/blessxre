@@ -10,11 +10,10 @@
 
 
 ## 💫 - Welcome on my Profile! 👋
-`📋` I am Shini and i am from Germany and an [discord.js](https://discord.js.org) Bot-Developer!
+`📋` I am Shini from Germany and an <img alt="discord.js Logo" src="https://cdn.discordapp.com/emojis/851461487498493952.webp?size=80&quality=lossless" width="20" height="20" align="center"> [discord.js](https://discord.js.org) Bot-Developer!
 
-> `➡️` Developer @ https://discord.gg/novaempire
-— This Server is [partnered with Discord](https://discord.com/partners)!
-- » Developer of Leveling & Temp-Voice-System <3
+> Developer @ https://discord.gg/novaempire <img alt="Discord Partner" src="https://cdn.discordapp.com/emojis/1131312467830648842.gif?size=80&quality=lossless" width="20" height="20" align="center">
+- Developer of Leveling & Temp-Voice-System <3
 
-- `📨` Contact @ [shini.js on Discord](https://discord.com/users/341160761470615563)
+- <img alt="Contact Mail" src="https://cdn.discordapp.com/emojis/1131294198562299944.webp?size=80&quality=lossless" width="20" height="20" align="center"> Contact @ [shini.js on Discord](https://discord.com/users/341160761470615563)
  
