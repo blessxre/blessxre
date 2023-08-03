@@ -19,5 +19,5 @@
 </a>
 - Created the Level-System and Temp-Voice-System
 
-- You can contact me on Discord! »» [shini.js on Discord](https://discord.com/users/341160761470615563)
+- You can contact me on Discord! »» [visualdream on Discord](https://discord.com/users/341160761470615563)
  
