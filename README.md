@@ -10,7 +10,7 @@
 
 ## ◆ 🪐 - Welcome! › ![](https://komarev.com/ghpvc/?username=shinidotjs&style=flat-square&label=VIEWS)
 
-`📋` I am Shini and an german <a href="https://discord.js.org/" target="_blank">
+`📋` I am phantaziia and an german <a href="https://discord.js.org/" target="_blank">
 	<img src="https://cdn.discordapp.com/emojis/851461487498493952.webp?size=80&quality=lossless" width="20" height="20" align="center">
 </a> [discord.js](https://discord.js.org/) Bot-Developer! 
 
