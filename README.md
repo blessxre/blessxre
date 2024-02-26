@@ -22,7 +22,7 @@
 	<img src="https://cdn.discordapp.com/emojis/1109426212041920562.webp?size=80&quality=lossless" width="15" height="10" align="center">
 </a> https://discord.gg/fantazia
 
-- You can contact me on Discord! - [shini.js on Discord](https://discord.com/users/341160761470615563)
+- You can contact me on Discord! - [@veltarie on Discord](https://discord.com/users/341160761470615563)
 
 ## ◆ 🎵 - Currently listening to
 
@@ -30,5 +30,5 @@
 
 ## ◆ 🏆 - Trophys & Medals
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phantaziia&row=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=veltarie&row=10&column=3)](https://github.com/ryo-ma/github-profile-trophy)
  
