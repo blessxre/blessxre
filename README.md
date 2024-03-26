@@ -18,10 +18,6 @@
 	<img src="https://cdn.discordapp.com/emojis/1131312467830648842.gif?size=80&quality=lossless" width="17" height="17" align="center">
 </a> https://discord.gg/novaempire
 
-> Owner @ <a href="https://discord.gg/fantazia" target="_blank">
-	<img src="https://cdn.discordapp.com/emojis/1109426212041920562.webp?size=80&quality=lossless" width="15" height="10" align="center">
-</a> https://discord.gg/fantazia
-
 - You can contact me on Discord! - [@veltarie on Discord](https://discord.com/users/341160761470615563)
 
 ## ◆ 🎵 - Currently listening to
